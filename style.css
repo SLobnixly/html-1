@@ -7,3 +7,6 @@ font-family: Arial, Helvetica, sans-serif;
     color: #f40000;
 }
 .highlight{color: rgb(52, 0, 101);}
+.introcontainer{width: 480px;
+float: left;}
+#intropic{float: left;}
