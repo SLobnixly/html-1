@@ -1,12 +1,32 @@
 body{
-    background-color:#00ff91;
+    background-color:#ffffff;
 margin: 0px;
 font-family: Arial, Helvetica, sans-serif;
 }
 #intro {
     color: #f40000;
 }
-.highlight{color: rgb(52, 0, 101);}
-.introcontainer{width: 480px;
+.highlight{color: #340065;}
+.introcontainer{width: 440px;
 float: left;}
 #intropic{float: left;}
+.reset{
+    clear: both;
+}
+
+#hobbycontainer{
+    width: 420px;
+    float: left;
+}
+#heroshot{
+    float: left;
+    
+}
+
+#meme{
+    float: left;
+}
+
+.socialb{
+    float: left;
+}
