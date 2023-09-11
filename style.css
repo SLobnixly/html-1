@@ -30,3 +30,7 @@ float: left;}
 .socialb{
     float: left;
 }
+#grotecontainer{
+    width: 850px;
+    margin: 0 auto;
+}
