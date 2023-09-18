@@ -3,20 +3,68 @@ body{
 margin: 0px;
 font-family: Arial, Helvetica, sans-serif;
 }
-#intro {
-    color: #f40000;
-}
-.highlight{color: #340065;}
-.introcontainer{width: 440px;
-float: left;
-
-margin: 0 0 0 30px;}
-
-#intropic{float: left;}
+/*classes*/
 .reset{
     clear: both;
 }
+.highlight{color: #340065;}
 
+
+.introcontainer{width: 440px;
+float: left;
+
+
+margin: 0 0 0 30px;}
+
+
+
+.socialb{
+   float: left;
+   margin: 10;
+
+}
+
+
+/*id*/
+/*intro*/
+#intropic{float: left;}
+#intro {
+    color: #f40000;
+}
+
+
+
+#meme{
+    width: 340px;
+    float: left;
+}
+
+
+#grotecontainer{
+    width: 630px;
+    height: 852px;
+    margin: 0 auto;
+    padding: 20px 0 0 0;
+    background-color: #ffffff;
+}
+
+
+/*navigation*/
+#navigation {
+    height: 30px;
+    margin: 0 0 10px 0;
+}
+
+#navigation a {
+    padding: 5px;
+    background: #20ffa2;
+}
+#navigation a :hover {
+    background-color: #73dcb0;
+}
+
+
+/*hobby*/
 #hobbycontainer{
     width: 340px;
     float: left;
@@ -31,37 +79,4 @@ margin: 0;
     float: left;
     
     
-}
-
-#meme{
-    width: 340px;
-    float: left;
-}
-
-.socialb{
-   
-    margin: 0 10px 0 20px;
-
-}
-#grotecontainer{
-    width: 630px;
-    height: 852px;
-    margin: 0 auto;
-    padding: 20px 0 0 0;
-    background-color: #ffffff;
-}
-
-
-
-#navigation {
-    height: 30px;
-    margin: 0 0 10px 0;
-}
-
-#navigation a {
-    padding: 5px;
-    background: #20ffa2;
-}
-#navigation a :hover {
-    background-color: #73dcb0;
 }
