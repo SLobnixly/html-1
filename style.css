@@ -45,10 +45,23 @@ margin: 0;
 }
 #grotecontainer{
     width: 630px;
-    height: 812px;
+    height: 852px;
     margin: 0 auto;
+    padding: 20px 0 0 0;
     background-color: #ffffff;
 }
+
+
+
 #navigation {
-   
+    height: 30px;
+    margin: 0 0 10px 0;
+}
+
+#navigation a {
+    padding: 5px;
+    background: #20ffa2;
+}
+#navigation a :hover {
+    background-color: #73dcb0;
 }
