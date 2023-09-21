@@ -12,9 +12,8 @@ font-family: Arial, Helvetica, sans-serif;
 
 .introcontainer{width: 440px;
 float: left;
-
-
-margin: 0 0 0 30px;}
+margin: 0 0 30px 0;
+}
 
 
 
@@ -28,7 +27,7 @@ margin: 0 0 0 30px;}
 /*id*/
 /*intro*/
 #intropic{float: left;
-height: 190px;}
+height: 200px;}
 #intro {
     color: #f40000;
 }
@@ -69,7 +68,7 @@ height: 190px;}
 #hobbycontainer{
     width: 340px;
     float: left;
-    margin: 0 15px 80px 0;
+    margin: 10px 15px 80px 0;
 }
 
 #hobbycontainer h2{
