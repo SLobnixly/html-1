@@ -27,7 +27,8 @@ margin: 0 0 0 30px;}
 
 /*id*/
 /*intro*/
-#intropic{float: left;}
+#intropic{float: left;
+height: 205px;}
 #intro {
     color: #f40000;
 }
@@ -59,8 +60,8 @@ margin: 0 0 0 30px;}
     padding: 5px;
     background: #20ffa2;
 }
-#navigation a :hover {
-    background-color: #73dcb0;
+#navigation a:hover {
+    background: #4f6944;
 }
 
 
